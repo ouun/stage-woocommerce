@@ -1,12 +1,12 @@
 {
-    "name": "roots/sage-woocommerce",
-    "description": "WooCommerce integration for Sage 9",
+    "name": "ouun/stage-woocommerce",
+    "description": "WooCommerce integration for Stage & Sage 10",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Daniel Mejta",
-            "email": "daniel@mejta.net"
+            "name": "Philipp",
+            "email": "philipp@ouun.io"
         }
     ],
     "autoload": {

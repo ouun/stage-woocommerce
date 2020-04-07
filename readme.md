@@ -16,4 +16,4 @@ Create `shop` folder in `/resources/views` folder of your theme and place there 
 
 ## Forked
 
-This is a fork from #roots/sage-woocommerce for Sage 9 and adjusted to Sage 10.
+This is a fork from `roots/sage-woocommerce` for Sage 9 and adjusted to Sage 10.
