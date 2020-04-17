@@ -73,9 +73,12 @@ if (defined('WC_ABSPATH')) {
                 );
 
                 echo view($view, $data)->render();
+                
+                // Return empty string to prevent wc_get_template_part() to add output
+                return '';
+            } else {
+	            return $template;
             }
-
-            return $template;
         },
         PHP_INT_MAX,
         1
