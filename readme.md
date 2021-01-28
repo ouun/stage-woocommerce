@@ -2,6 +2,10 @@
 
 This package enables WooCommerce integration with Stage & Sage 10 themes and Blade templates.
 
+## Please use an Alternative
+[Some other solutions](https://discourse.roots.io/t/woocommerce-support-for-sage-10/17999) have came up lastely to add WooCommerce support for Sage 10.
+I tested a couple and decided to not maintain this package in the future. A better alternative is: https://github.com/generoi/sage-woocommerce
+
 ## Installation
 
 Install the package in your theme folder:
